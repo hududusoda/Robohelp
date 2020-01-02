@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+  <title>Table of Contents</title>
+  <book navtitle="奇数页面" format="html" processing-role="normal">
+    <map navtitle="奇数页面" href="奇数页面.toc" format="html" processing-role="normal"></map>
+  </book>
+  <book navtitle="偶数页面" format="html" processing-role="normal">
+    <map navtitle="偶数页面" href="偶数页面.toc" format="html" processing-role="normal"></map>
+  </book>
+</map>

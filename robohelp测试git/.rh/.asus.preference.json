@@ -1,0 +1,144 @@
+{
+  "recent-files::internal:document": [{
+    "path": "C:/Users/asus/Desktop/打包/publish/presets/EPUB.preset",
+    "pinned": false,
+    "time": "Jan 2, 1:20 PM"
+  }, {
+    "path": "C:/Users/asus/Desktop/打包/contents/second.htm",
+    "pinned": false,
+    "time": "Jan 2, 1:08 PM"
+  }, {
+    "path": "C:/Users/asus/Desktop/打包/contents/fourth.htm",
+    "pinned": false,
+    "time": "Jan 2, 1:08 PM"
+  }, {
+    "path": "C:/Users/asus/Desktop/打包/contents/First_Topic.htm",
+    "pinned": false,
+    "time": "Jan 2, 1:08 PM"
+  }, {
+    "path": "C:/Users/asus/Desktop/打包/contents/first.htm",
+    "pinned": false,
+    "time": "Jan 2, 1:08 PM"
+  }, {
+    "path": "C:/Users/asus/Desktop/打包/contents/fifth.htm",
+    "pinned": false,
+    "time": "Jan 2, 1:08 PM"
+  }, {
+    "path": "C:/Users/asus/Documents/My RoboHelp Projects/测试2/toc/偶数页面.toc",
+    "pinned": false,
+    "time": "Jan 2, 1:04 PM"
+  }, {
+    "path": "C:/Users/asus/Documents/My RoboHelp Projects/测试2/contents/fourth.htm",
+    "pinned": false,
+    "time": "Jan 2, 12:58 PM"
+  }, {
+    "path": "C:/Users/asus/Documents/My RoboHelp Projects/测试2/contents/First_Topic.htm",
+    "pinned": false,
+    "time": "Jan 2, 12:58 PM"
+  }, {
+    "path": "C:/Users/asus/Documents/My RoboHelp Projects/测试2/contents/first.htm",
+    "pinned": false,
+    "time": "Jan 2, 12:58 PM"
+  }, {
+    "path": "C:/Users/asus/Documents/My RoboHelp Projects/测试2/contents/fifth.htm",
+    "pinned": false,
+    "time": "Jan 2, 12:58 PM"
+  }, {
+    "path": "C:/Users/asus/Documents/My RoboHelp Projects/测试2/toc/奇数页面.toc",
+    "pinned": false,
+    "time": "Dec 31, 11:22 AM"
+  }, {
+    "path": "C:/Users/asus/Documents/My RoboHelp Projects/测试2/contents/second.htm",
+    "pinned": false,
+    "time": "Dec 31, 11:19 AM"
+  }, {
+    "path": "C:/Users/asus/Documents/My RoboHelp Projects/测试2/contents/assets/images/west-indian-manatees-james-rd-scott.jpg",
+    "pinned": false,
+    "time": "Dec 31, 11:16 AM"
+  }, {
+    "path": "C:/Users/asus/Documents/My RoboHelp Projects/测试2/publish/skins/Charcoal_Grey/html5.skn",
+    "pinned": false,
+    "time": "Dec 31, 11:15 AM"
+  }, {
+    "path": "C:/Users/asus/Documents/My RoboHelp Projects/测试2/publish/skins/Indigo/html5.skn",
+    "pinned": false,
+    "time": "Dec 31, 11:09 AM"
+  }, {
+    "path": "C:/Users/asus/Documents/My RoboHelp Projects/测试2/contents/assets/images/bitbug_favicon.ico",
+    "pinned": false,
+    "time": "Dec 31, 10:49 AM"
+  }, {
+    "path": "C:/Users/asus/Documents/My RoboHelp Projects/测试2/publish/presets/Responsive HTML5.preset",
+    "pinned": false,
+    "time": "Dec 31, 10:41 AM"
+  }, {
+    "path": "C:/Users/asus/Documents/My RoboHelp Projects/测试2/contents/third.htm",
+    "pinned": false,
+    "time": "Dec 31, 10:40 AM"
+  }, {
+    "path": "C:/Users/asus/Documents/My RoboHelp Projects/测试2/publish/presets/PDF.preset",
+    "pinned": false,
+    "time": "Dec 31, 10:34 AM"
+  }, {
+    "path": "C:/Users/asus/Documents/My RoboHelp Projects/测试2/toc/Default.toc",
+    "pinned": false,
+    "time": "Dec 31, 10:33 AM"
+  }],
+  "recent-files::internal:hyperlink": [{
+    "path": "C:/Users/asus/Documents/My RoboHelp Projects/测试2/contents/fourth.htm",
+    "pinned": false,
+    "time": "Dec 31, 11:20 AM"
+  }, {
+    "path": "C:/Users/asus/Documents/My RoboHelp Projects/测试2/contents/second.htm",
+    "pinned": false,
+    "time": "Dec 31, 11:19 AM"
+  }, {
+    "path": "C:/Users/asus/Documents/My RoboHelp Projects/测试2/contents/fifth.htm",
+    "pinned": false,
+    "time": "Dec 31, 10:31 AM"
+  }, {
+    "path": "C:/Users/asus/Documents/My RoboHelp Projects/测试2/contents/third.htm",
+    "pinned": false,
+    "time": "Dec 31, 10:30 AM"
+  }, {
+    "path": "C:/Users/asus/Documents/My RoboHelp Projects/测试2/contents/first.htm",
+    "pinned": false,
+    "time": "Dec 31, 10:30 AM"
+  }, {
+    "path": "C:/Users/asus/Documents/My RoboHelp Projects/测试2/contents/First_Topic.htm",
+    "pinned": false,
+    "time": "Dec 31, 9:47 AM"
+  }],
+  "file-modified": "2019-12-31T11:24:04+08:00",
+  "generate": {
+    "outputs": {
+      "C:/Users/asus/Documents/My RoboHelp Projects/测试2/publish/presets/PDF.preset": {
+        "exists": true,
+        "path": "C:/Users/asus/Documents/My RoboHelp Projects/outputs/测试2/PDF/Default.pdf",
+        "time": "2019-12-31T10:39:48+08:00",
+        "logFile": "C:/Users/asus/AppData/Local/Temp/RHTMP/PDF.ehtml"
+      },
+      "C:/Users/asus/Documents/My RoboHelp Projects/测试2/publish/presets/Responsive HTML5.preset": {
+        "exists": true,
+        "path": "C:/Users/asus/Documents/My RoboHelp Projects/outputs/测试2/Responsive HTML5/index.htm",
+        "time": "2019-12-31T11:24:07+08:00",
+        "logFile": "C:/Users/asus/AppData/Local/Temp/RHTMP/Responsive HTML5.ehtml"
+      },
+      "C:/Users/asus/Desktop/打包/publish/presets/EPUB.preset": {
+        "exists": true,
+        "path": "C:/Users/asus/Documents/My RoboHelp Projects/outputs/测试2/EPUB/Default.epub",
+        "time": "2020-01-02T13:21:10+08:00",
+        "logFile": "C:/Users/asus/AppData/Local/Temp/RHTMP/EPUB.ehtml"
+      }
+    }
+  },
+  "recent-files::internal:image": [{
+    "path": "C:/Users/asus/Documents/My RoboHelp Projects/测试2/contents/assets/images/west-indian-manatees-james-rd-scott.jpg",
+    "pinned": false,
+    "time": "Dec 31, 11:16 AM"
+  }, {
+    "path": "C:/Users/asus/Documents/My RoboHelp Projects/测试2/contents/assets/images/bitbug_favicon.ico",
+    "pinned": false,
+    "time": "Dec 31, 11:16 AM"
+  }]
+}

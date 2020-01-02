@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preset>
+  <title>Blank Project</title>
+  <content>
+    <toc>
+      <path>../../toc/偶数页面.toc</path>
+    </toc>
+    <index type="boolean">false</index>
+    <brs type="array"></brs>
+    <masterpage>
+      <path>../../contents/assets/masterpages/pdf.htt</path>
+      <name>pdf</name>
+    </masterpage>
+    <mapFiles type="array"></mapFiles>
+    <generatetoc type="boolean">true</generatetoc>
+    <includereftopics type="boolean">true</includereftopics>
+    <includeExpandingText type="boolean">false</includeExpandingText>
+    <includeDropdownText type="boolean">false</includeDropdownText>
+  </content>
+  <type>pdf</type>
+  <outputPath>C:/Users/asus/Documents/My RoboHelp Projects/outputs/测试2/PDF</outputPath>
+  <name>PDF</name>
+  <starterPage>Default.pdf</starterPage>
+  <defaultTopic></defaultTopic>
+  <search>
+    <context type="boolean">false</context>
+    <contextLimit></contextLimit>
+    <showSpeclChars type="boolean">false</showSpeclChars>
+    <speclChars>0;1;2;3;4;5;6;7;8;9</speclChars>
+  </search>
+  <sitemap>
+    <use type="boolean">false</use>
+    <helpBaseURL></helpBaseURL>
+    <changeFrequency></changeFrequency>
+  </sitemap>
+  <patchHomepage type="boolean">true</patchHomepage>
+  <gdprCompliance type="boolean">true</gdprCompliance>
+  <pdf>
+    <margin type="array">
+      <marginitem type="number">15</marginitem>
+      <marginitem type="number">15</marginitem>
+      <marginitem type="number">15</marginitem>
+      <marginitem type="number">15</marginitem>
+    </margin>
+    <multiheaders type="boolean">false</multiheaders>
+  </pdf>
+</preset>
